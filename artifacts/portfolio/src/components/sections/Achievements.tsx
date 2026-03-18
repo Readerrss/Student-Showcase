@@ -43,7 +43,7 @@ const ACHIEVEMENTS = [
     title: "Lead Community Manager",
     issuer: "Techno India University",
     date: "2024 - Present",
-    desc: "Leading and managing a student cohort of 500+ members, organizing events, hackathons, and technical workshops.",
+    desc: "Leading and managing a student cohort of 15+ members, organizing events, hackathons, and technical workshops.",
     icon: Star,
     hasCert: false,
     color: "text-purple-500",

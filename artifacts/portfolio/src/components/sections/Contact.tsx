@@ -69,7 +69,7 @@ export function Contact() {
                 </div>
                 <div>
                   <p className="text-sm text-muted-foreground font-mono">Email</p>
-                  <a href="mailto:mitadru@example.com" className="text-lg font-medium hover:text-primary transition-colors">mitadru@example.com</a>
+                  <a href="mailto:karmmitaml@gmail.com" className="text-lg font-medium hover:text-primary transition-colors">karmmitaml@gmail.com</a>
                 </div>
               </div>
               
@@ -87,10 +87,10 @@ export function Contact() {
             <div className="pt-8 border-t border-border">
               <p className="text-sm font-bold text-foreground mb-4 uppercase tracking-widest">Connect Internally</p>
               <div className="flex gap-4">
-                <a href="https://github.com/mitadru-karmakar" target="_blank" rel="noreferrer" className="bg-card border border-border p-3 rounded-lg hover:border-primary hover:text-primary transition-colors">
+                <a href="https://github.com/Readerrss" target="_blank" rel="noreferrer" className="bg-card border border-border p-3 rounded-lg hover:border-primary hover:text-primary transition-colors">
                   <Github className="w-6 h-6" />
                 </a>
-                <a href="#" target="_blank" rel="noreferrer" className="bg-card border border-border p-3 rounded-lg hover:border-secondary hover:text-secondary transition-colors">
+                <a href="https://www.linkedin.com/in/mitadru-karmakar-483274319" target="_blank" rel="noreferrer" className="bg-card border border-border p-3 rounded-lg hover:border-secondary hover:text-secondary transition-colors">
                   <Linkedin className="w-6 h-6" />
                 </a>
               </div>

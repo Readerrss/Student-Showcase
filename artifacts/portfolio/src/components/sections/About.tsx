@@ -44,7 +44,7 @@ export function About() {
                 <p><span className="text-primary">role:</span> "CS Student & Developer",</p>
                 <p><span className="text-primary">university:</span> "Techno India University",</p>
                 <p><span className="text-primary">batch:</span> "BCS-3A",</p>
-                <p><span className="text-primary">specialization:</span> "AI & Machine Learning",</p>
+                <p><span className="text-primary">specialization:</span> "Computer Science & Engineering",</p>
                 <p><span className="text-primary">passion:</span> "Understanding how hardware & software interact",</p>
               </div>
               <p>{"};"}</p>
@@ -58,7 +58,7 @@ export function About() {
             className="space-y-6 text-lg text-muted-foreground"
           >
             <p>
-              I am a 3rd-year B.Tech Computer Science student specializing in Artificial Intelligence and Machine Learning. My approach to technology is driven by a deep curiosity about how systems work under the hood.
+              I am a 3rd-year B.Tech student in Computer Science and Engineering at Techno India University. My approach to technology is driven by a deep curiosity about how systems work under the hood — from AI models to game engines.
             </p>
             
             <div className="grid sm:grid-cols-2 gap-4 mt-8">
@@ -78,7 +78,7 @@ export function About() {
                 </div>
                 <div>
                   <h4 className="text-foreground font-bold mb-1">Community Leadership</h4>
-                  <p className="text-sm">Active community manager organizing and leading a cohort of 500+ TIU students.</p>
+                  <p className="text-sm">Active community manager organizing events, hackathons, and workshops for a cohort of 15+ TIU students.</p>
                 </div>
               </div>
             </div>

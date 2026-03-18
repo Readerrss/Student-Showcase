@@ -44,7 +44,7 @@ export function Hero() {
               options={{
                 strings: [
                   "B.Tech 3rd Year CSE Student",
-                  "AI-ML Specialization",
+                  "Computer Science & Engineering",
                   "Game Developer (UE5)",
                   "BCS-3A @ Techno India"
                 ],
@@ -70,13 +70,13 @@ export function Hero() {
           </div>
 
           <div className="flex gap-4">
-            <a href="https://github.com/mitadru-karmakar" target="_blank" rel="noreferrer" className="p-2.5 rounded-full bg-muted text-muted-foreground hover:bg-primary/20 hover:text-primary transition-colors">
+            <a href="https://github.com/Readerrss" target="_blank" rel="noreferrer" className="p-2.5 rounded-full bg-muted text-muted-foreground hover:bg-primary/20 hover:text-primary transition-colors">
               <Github className="w-5 h-5" />
             </a>
-            <a href="#contact" className="p-2.5 rounded-full bg-muted text-muted-foreground hover:bg-primary/20 hover:text-primary transition-colors">
+            <a href="https://www.linkedin.com/in/mitadru-karmakar-483274319" target="_blank" rel="noreferrer" className="p-2.5 rounded-full bg-muted text-muted-foreground hover:bg-primary/20 hover:text-primary transition-colors">
               <Linkedin className="w-5 h-5" />
             </a>
-            <a href="mailto:mitadru@example.com" className="p-2.5 rounded-full bg-muted text-muted-foreground hover:bg-primary/20 hover:text-primary transition-colors">
+            <a href="mailto:karmmitaml@gmail.com" className="p-2.5 rounded-full bg-muted text-muted-foreground hover:bg-primary/20 hover:text-primary transition-colors">
               <Mail className="w-5 h-5" />
             </a>
           </div>
