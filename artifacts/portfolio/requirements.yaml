@@ -1,0 +1,24 @@
+packages:
+  "framer-motion": "For premium scroll animations, page transitions, and micro-interactions"
+  "react-hook-form": "For robust contact form state management and validation"
+  "@hookform/resolvers": "For integrating Zod validation with react-hook-form"
+  "zod": "For client-side validation schema definition"
+  "clsx": "For conditional tailwind class merging"
+  "tailwind-merge": "For resolving tailwind class conflicts"
+  "lucide-react": "For beautiful consistent iconography"
+  "@radix-ui/react-dialog": "For accessible certificate viewing modal"
+  "@radix-ui/react-slot": "For accessible component slotting"
+  "typewriter-effect": "For the requested typed text effect in the hero section"
+
+images:
+  - path: "artifacts/portfolio/public/images/hero-bg.png"
+    description: "Abstract cyber tech background, dark deep blue and cyan glowing geometric nodes and digital connections, subtle lighting, cinematic, 8k"
+    aspect_ratio: "16:9"
+  - path: "artifacts/portfolio/public/images/avatar-illustration.png"
+    description: "Stylized cyberpunk hacker and developer 3D avatar, glowing cyan accents, wearing a sleek tech jacket, clean dark background"
+    aspect_ratio: "1:1"
+
+notes:
+  - "The project relies entirely on client-side state and XML parsing for projects, with no external backend required."
+  - "The contact form simulates a network request via setTimeout."
+  - "Using pure React context for theme management."
