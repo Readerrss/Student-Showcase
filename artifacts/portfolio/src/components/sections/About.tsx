@@ -78,7 +78,7 @@ export function About() {
                 </div>
                 <div>
                   <h4 className="text-foreground font-bold mb-1">Community Leadership</h4>
-                  <p className="text-sm">Active community manager organizing events, hackathons, and workshops for a cohort of 15+ TIU students.</p>
+                  <p className="text-sm">Running a WhatsApp community of 15+ friends for gaming, problem solving, and tech discussions.</p>
                 </div>
               </div>
             </div>

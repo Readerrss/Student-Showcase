@@ -43,7 +43,7 @@ const ACHIEVEMENTS = [
     title: "Lead Community Manager",
     issuer: "Techno India University",
     date: "2024 - Present",
-    desc: "Leading and managing a student cohort of 15+ members, organizing events, hackathons, and technical workshops.",
+    desc: "Running a WhatsApp community of 15+ friends for gaming, problem solving, and tech discussions.",
     icon: Star,
     hasCert: false,
     color: "text-purple-500",
