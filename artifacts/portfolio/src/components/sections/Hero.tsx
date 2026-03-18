@@ -89,12 +89,12 @@ export function Hero() {
           className="relative hidden lg:block"
         >
           <div className="relative w-full max-w-md mx-auto aspect-square">
-            <div className="absolute inset-0 bg-gradient-to-tr from-primary/20 to-secondary/20 rounded-full blur-3xl animate-pulse"></div>
-            <div className="relative w-full h-full rounded-full border-2 border-primary/20 p-2 overflow-hidden cyber-border">
+            <div className="absolute inset-0 bg-gradient-to-tr from-primary/30 to-secondary/30 rounded-3xl blur-3xl animate-pulse"></div>
+            <div className="relative w-full h-full rounded-3xl border-2 border-primary/30 overflow-hidden cyber-border">
               <img 
-                src={`${import.meta.env.BASE_URL}images/avatar-illustration.png`} 
-                alt="Mitadru Karmakar Illustration" 
-                className="w-full h-full object-cover rounded-full bg-background/50"
+                src={`${import.meta.env.BASE_URL}avatar.jpeg`} 
+                alt="Mitadru Karmakar" 
+                className="w-full h-full object-cover"
               />
             </div>
             
