@@ -44,7 +44,7 @@ export function About() {
                 <p><span className="text-primary">role:</span> "CS Student & Developer",</p>
                 <p><span className="text-primary">university:</span> "Techno India University",</p>
                 <p><span className="text-primary">batch:</span> "BCS-3A",</p>
-                <p><span className="text-primary">specialization:</span> "Computer Science & Engineering",</p>
+                <p><span className="text-primary">specialization:</span> "B.Tech in Computer Science & Engineering",</p>
                 <p><span className="text-primary">passion:</span> "Understanding how hardware & software interact",</p>
               </div>
               <p>{"};"}</p>
